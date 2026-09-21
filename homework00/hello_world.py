@@ -1,9 +1,9 @@
 """Simple hello world program."""
 
 
-def text(message):
+def text():
     """Return the given message."""
-    return message
+    return "Hello World"
 
 
 print("Hello world")
